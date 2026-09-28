@@ -25,7 +25,7 @@ Architectural documentation, production frameworks, and model benchmarking for c
 * **Generative Engines:** Midjourney, Kling AI, Google Veo, Sora, Nano Banana, ElevenLabs
 * **Post-Production & VFX:** DaVinci Resolve, Adobe After Effects, Adobe Premiere Pro
 * **Design & Systems:** Adobe Creative Suite, CorelDRAW
-* **Hardware Specs:** Intel Core i7 (12th Gen), 32 GB DDR5 RAM, NVIDIA GeForce RTX 3070 Ti (8 GB VRAM)
+* **Hardware Specs:**ASUS ROG G16 | Intel Core i9 | 16 GB RAM | NVIDIA GeForce RTX 40-Series GPU
 
 ---
 
